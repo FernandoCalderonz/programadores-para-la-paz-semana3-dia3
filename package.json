@@ -7,7 +7,8 @@
       "practicar": "node ciclo-while.js",
       "propuestas": "node conteo-propuestas.js",
       "fuentes": "node revision-fuentes.js",
-      "seguimiento": "node seguimiento-comunitario.js"
+      "seguimiento": "node seguimiento-comunitario.js",
+      "Ejemplo": "node Ejemplo1.js"
     },
     "author": "Programa Capacitación en Democracia y Tecnología",
     "license": "MIT"
