@@ -1,58 +1,58 @@
 Bitácora de comando – Semana 3 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Fernando calderon
+Fecha:10 05 2026
+Nombre de la rama:Fernando_Calderon
 
-Comando nuevo del día:
+Comando nuevo del día:npm
 npm run practicar
 
 Escribe los comandos que usaste durante la práctica.
 
 1. Comando usado para clonar el repositorio:
 
-Respuesta:
+Respuesta: git clone
 
 2. Comando usado para entrar a la carpeta del proyecto:
 
-Respuesta:
+Respuesta: cd
 
 3. Comando usado para crear tu rama personal:
 
-Respuesta:
+Respuesta:git checkout -b 
 
 4. Comando usado para verificar la rama:
 
-Respuesta:
+Respuesta:Branch
 
 5. Comando nuevo usado para ejecutar ciclo-while.js desde package.json:
 
-Respuesta:
+Respuesta:npm main
 
 6. Comando usado para ejecutar conteo-propuestas.js:
 
-Respuesta:
+Respuesta:npm propuestas
 
 7. Comando usado para ejecutar revision-fuentes.js:
 
-Respuesta:
+Respuesta:npm fuentes
 
 8. Comando usado para ejecutar seguimiento-comunitario.js:
 
-Respuesta:
+Respuesta:npm seguimiento
 
 9. Comando usado para revisar cambios en Git:
 
-Respuesta:
+Respuesta:git status
 
 10. Comando usado para agregar cambios:
 
-Respuesta:
+Respuesta:git add
 
 11. Comando usado para crear commit:
 
-Respuesta:
+Respuesta:git commit -m
 
 12. Comando usado para publicar la rama:
 
-Respuesta:
+Respuesta:git push Branch -b
